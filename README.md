@@ -3,8 +3,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/kandesfx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kandesfx" height="30" width="40" /></a>
-<a href="https://twitter.com/lvhi1412" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lvhi1412" height="30" width="40" /></a>
+<a href="https://github.com/Kandesfx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kandesfx" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lvhi1412" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hải lê vũ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hải lê vũ" height="30" width="40" /></a>
 <a href="https://fb.com/lê vũ hải" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lê vũ hải" height="30" width="40" /></a>
 <a href="https://instagram.com/hai.kandesfx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hai.kandesfx" height="30" width="40" /></a>
