@@ -26,7 +26,7 @@
 
 ---
 
-## 🎯 Core Expertise
+## Core Expertise
 
 <div align="center">
 
@@ -37,7 +37,7 @@
 
 ---
 
-## ⚡ **Technical Arsenal**
+## **Technical Arsenal**
 
 <div align="center">
 
@@ -52,24 +52,7 @@
 
 ---
 
-## 🏆 **Signature Projects**
-
-<div align="center">
-
-| Project | Domain | Tech Stack | Impact |
-|:--------|:-------|:-----------|:-------|
-| <a href="https://github.com/Kandesfx/AURA-Social"><b>AURA-Social</b></a> | 🌐 Social Platform | React • Node.js • MongoDB • Socket.io | Real-time networking with 10K+ potential users |
-| <a href="https://github.com/Kandesfx/Visualize-AI---LSTM_GRU"><b>Visualize AI</b></a> | 🤖 Machine Learning | Python • TensorFlow • PyTorch • Streamlit | Interactive LSTM/GRU neural network visualizer |
-| <a href="https://github.com/Kandesfx/GoGame"><b>GoGame</b></a> | 🎮 Game Dev | Unity • C# • Photon | Multiplayer Go game with AI opponent |
-| <a href="https://github.com/Kandesfx/E-Commerce-Website"><b>E-Commerce Pro</b></a> | 💰 FinTech | Java • Spring Boot • MySQL • Stripe | Full-stack marketplace with payment integration |
-| <a href="https://github.com/Kandesfx/portfolio-responsive-complete"><b>Portfolio</b></a> | 🎨 Design | React • Framer Motion • GSAP | Award-winning responsive portfolio design |
-| <a href="https://github.com/Kandesfx/WebReactJSForm"><b>FormKit</b></a> | 🔧 Developer Tools | React • Formik • Yup • Zod | Production-ready form validation library |
-
-</div>
-
----
-
-## 📈 Activity Overview
+## Activity Overview
 
 <div align="center">
 
@@ -81,21 +64,21 @@
 
 ---
 
-## 🔥 **Currently Building**
+## **Currently Building**
 
 <div align="center">
 
 | Status | Project | Stack | ETA |
 |:-------|:--------|:------|:---|
-| 🟢 **Active** | Flutter Fitness App | Flutter • Firebase • Health API | Q2 2025 |
-| 🟡 **Planning** | AI Code Assistant | Python • OpenAI API • FastAPI | Q3 2025 |
-| 🔵 **Research** | WebAssembly Game Engine | Rust • WASM • WebGL | Q4 2025 |
+|  **Active** | Flutter Fitness App | Flutter • Firebase • Health API | Q2 2025 |
+|  **Planning** | AI Code Assistant | Python • OpenAI API • FastAPI | Q3 2025 |
+|  **Research** | WebAssembly Game Engine | Rust • WASM • WebGL | Q4 2025 |
 
 </div>
 
 ---
 
-## 🌍 **Connect & Collaborate**
+## **Connect & Collaborate**
 
 <div align="center">
 
