@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=4000&pause=2000&color=00E5FF&center=true&vCenter=true&width=800&lines=Hello%2C+world!+I'm+Le+Vu+Hai;Full-Stack+Engineer;AI+%26+Game+Developer;Building+the+future%2C+one+commit+at+a+time" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=4000&pause=2000&color=00E5FF&center=true&vCenter=true&width=800&lines=Hello%2C+world!+I'm+Le+Vu+Hai;Full-Stack+Engineer;AI+%26+Software+Developer;Building+the+future%2C+one+commit+at+a+time" alt="Typing SVG"/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/🌍_Based_in-Vietnam-00BFA5?style=for-the-badge" alt="Location"/>
