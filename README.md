@@ -11,13 +11,13 @@
 <div align="center" style="margin-top: 20px; margin-bottom: 20px;">
 
 <a href="https://www.linkedin.com/in/hailevu-kandes" target="_blank">
-  <img src="https://badges.pages.dev/badge/linkedin-blue?logo=linkedin&logoColor=fff&color=0077B5&label=LinkedIn&labelColor=333" width="120" height="40" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/Kandesfx" target="_blank">
-  <img src="https://badges.pages.dev/badge/github-black?logo=github&logoColor=fff&color=24292e&label=GitHub&labelColor=333" width="120" height="40" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="mailto:kandesfx@gmail.com" target="_blank">
-  <img src="https://badges.pages.dev/badge/gmail-red?logo=gmail&logoColor=fff&color=D14836&label=Email&labelColor=333" width="120" height="40" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </div>
