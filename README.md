@@ -26,11 +26,11 @@
 
 ---
 
-## 🎯 **Professional Profile**
+## 🎯 Core Expertise
 
 <div align="center">
 
-| <img width="180" src="https://github-readme-stats.vercel.app/api?username=Kandesfx&show_icons=true&theme=blue-dark&hide_border=true&include_all_commits=true&count_private=true" alt="Stats"/> | <img width="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kandesfx&layout=donut-vertical&theme=blue-dark&hide_border=true" alt="Languages"/> |
+| <img width="180" src="https://github-readme-stats.vercel.app/api?username=Kandesfx&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Stats"/> | <img width="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kandesfx&layout=donut&theme=radical&hide_border=true" alt="Languages"/> |
 |:---:|:---:|
 
 </div>
@@ -69,13 +69,13 @@
 
 ---
 
-## 📊 **Development Metrics**
+## 📈 Activity Overview
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kandesfx&theme=blue-dark&hide_border=true&date_format=j%20M%20Y&background=1a1b26&stroke=7aa2f7&ring=7dcfff&fire=ff9e64)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kandesfx&theme=radical&hide_border=true&date_format=j%20M%20Y)
 
-![Commit Activity](https://github-readme-stats.vercel.app/api?username=Kandesfx&show_icons=true&theme=blue-dark&hide_border=true&include_all_commits=true&commit_days=30&background=1a1b26&title_color=7aa2f7&text_color=c0caf5&icon_color=7dcfff)
+![Commit Activity](https://github-readme-stats.vercel.app/api?username=Kandesfx&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&commit_days=30)
 
 </div>
 
