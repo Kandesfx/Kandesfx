@@ -95,22 +95,6 @@
 
 ---
 
-## 🎖️ **Recognition & Achievements**
-
-<div align="center">
-
-🏆 **GitHub Achievements:** Pull Shark • Quickdraw • Arctic Code Vault Contributor
-
-📈 **Top Contributor** in multiple open-source repositories
-
-🎓 **Certifications:** AWS Certified Developer • Google Cloud Professional
-
-💡 **Innovation:** 5+ projects featured in GitHub Trending
-
-</div>
-
----
-
 ## 🌍 **Connect & Collaborate**
 
 <div align="center">
