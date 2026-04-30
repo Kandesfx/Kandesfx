@@ -70,9 +70,9 @@
 
 | Status | Project | Stack | ETA |
 |:-------|:--------|:------|:---|
-|  **Active** | Flutter Fitness App | Flutter • Firebase • Health API | Q2 2025 |
-|  **Planning** | AI Code Assistant | Python • OpenAI API • FastAPI | Q3 2025 |
-|  **Research** | WebAssembly Game Engine | Rust • WASM • WebGL | Q4 2025 |
+|  **Active** | Flutter Fitness App | Flutter • Firebase • Health API | Q2 2026 |
+|  **Planning** | AI Code Assistant | Python • OpenAI API • FastAPI | Q3 2026 |
+|  **Research** | WebAssembly Game Engine | Rust • WASM • WebGL | Q4 2026 |
 
 </div>
 
