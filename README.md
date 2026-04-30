@@ -1,91 +1,110 @@
 <div align="center">
 
-# 👋 Hi, I'm Le Vu Hai
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Le+Vu+Hai;Full-Stack+Developer;AI+%26+Mobile+Enthusiast;Always+learning+%26+building" alt="Typing SVG"/>
 
-**🚀 Full-Stack Developer | 📱 Mobile & Web Specialist | ☁️ Cloud Enthusiast | 🇻🇳 Vietnam**
+<p align="center">
+  <i>Transforming ideas into digital reality</i> | 🇻🇳 Vietnam-based
+</p>
 
-*Turning complex problems into elegant solutions through code*
+<div>
+  <a href="https://www.linkedin.com/in/hailevu-kandes" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.facebook.com/Hai.Kandesfx/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.instagram.com/haidinang_102/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:kandesfx@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
 
 </div>
 
 ---
 
-## 📖 My Story
-
-Hello! I'm **Le Vu Hai** (Kandesfx), a passionate software developer from Vietnam with a deep love for creating impactful digital experiences. My journey in technology began with a curiosity about how things work, which quickly evolved into a career dedicated to building applications that people love to use.
-
-### 🎯 What Drives Me
-
-I believe that great software is born from a combination of technical excellence and user empathy. Whether I'm crafting a sleek mobile app with Flutter, architecting a scalable backend with Node.js, or designing an intuitive web interface with React, my focus is always on delivering value to users while writing clean, maintainable code.
-
-### 💼 My Expertise
-
-With hands-on experience across the full technology stack, I thrive on full-stack development projects where I can see the complete picture—from database design to user interface polish.
-
-**Frontend Development:**
-- Building responsive, accessible web applications with React and modern JavaScript
-- Creating pixel-perfect UIs with CSS3, Tailwind, and component-based architectures
-- Implementing smooth animations and interactive experiences
-
-**Mobile Development:**
-- Developing cross-platform iOS and Android apps with Flutter
-- Building native Android applications
-- Ensuring excellent performance and native-like user experiences
-
-**Backend Development:**
-- Creating RESTful APIs and microservices with Node.js and Java
-- Designing and optimizing relational (MySQL) and NoSQL (MongoDB) databases
-- Implementing authentication, authorization, and security best practices
-
-**DevOps & Cloud:**
-- Containerizing applications with Docker
-- Deploying and managing services on AWS and Google Cloud Platform
-- Setting up CI/CD pipelines and monitoring solutions
-
----
-
-## 🌟 Featured Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|-----------|
-| [**AURA-Social**](https://github.com/Kandesfx/AURA-Social) | Social networking platform with real-time features | React, Node.js, MongoDB, Socket.io |
-| [**GoGame**](https://github.com/Kandesfx/GoGame) | Interactive game built with modern game development techniques | Unity/C#, Game Development |
-| [**Visualize AI - LSTM_GRU**](https://github.com/Kandesfx/Visualize-AI---LSTM_GRU) | AI visualization project using LSTM and GRU neural networks | Python, TensorFlow, PyTorch, Data Visualization |
-| [**Portfolio Responsive**](https://github.com/Kandesfx/portfolio-responsive-complete) | Complete responsive portfolio website | React, CSS3, JavaScript |
-| [**E-Commerce Website**](https://github.com/Kandesfx/E-Commerce-Website) | Full-featured e-commerce platform | Java, Spring Boot, MySQL |
-| [**WebReactJSForm**](https://github.com/Kandesfx/WebReactJSForm) | React form handling solution | React, Formik, Yup |
-
----
-
-## 📈 Contribution Activity
+## 💡 At a Glance
 
 <div align="center">
 
-![Contribution Graph](https://github-readme-streak-stats.herokuapp.com/?user=Kandesfx&theme=radical&hide_border=true)
+| Category | Focus Areas |
+|----------|-------------|
+| **🎨 Frontend** | React, JavaScript, HTML5, CSS3, Tailwind |
+| **📱 Mobile** | Flutter, Android, Dart, Cross-platform |
+| **⚙️ Backend** | Node.js, Java, REST APIs, Microservices |
+| **🗄️ Databases** | MongoDB, MySQL, PostgreSQL |
+| **☁️ Cloud** | AWS, Google Cloud, Docker, CI/CD |
+| **🤖 AI/ML** | Python, TensorFlow, LSTM, GRU, Data Viz |
 
 </div>
 
 ---
 
-## 🎯 Currently Working On
-
-- 🔄 Building cross-platform mobile applications with Flutter
-- 🌐 Developing modern web solutions with React ecosystem
-- ☁️ Exploring cloud services and containerization with Docker
-- 📚 Continuously learning and sharing knowledge
-
----
-
-## 🤝 Let's Connect!
-
-I'm always interested in hearing about new projects and opportunities. Feel free to reach out!
+## 🎯 Core Expertise
 
 <div align="center">
 
-<a href="mailto:kandesfx@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/hailevu-kandes"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.facebook.com/Hai.Kandesfx/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a href="https://www.instagram.com/haidinang_102/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+| <img width="150" src="https://github-readme-stats.vercel.app/api?username=Kandesfx&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats"/> | <img width="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kandesfx&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/> |
+|:---:|:---:|
+
+</div>
+
+---
+
+## 🔥 Featured Work
+
+<div align="center">
+
+| Project | Stack | Highlights |
+|---------|-------|------------|
+| <a href="https://github.com/Kandesfx/AURA-Social"><b>AURA-Social</b></a> | React • Node.js • MongoDB • Socket.io | Real-time social networking platform |
+| <a href="https://github.com/Kandesfx/GoGame"><b>GoGame</b></a> | Unity • C# • Game Dev | Interactive gaming experience |
+| <a href="https://github.com/Kandesfx/Visualize-AI---LSTM_GRU"><b>Visualize AI</b></a> | Python • TensorFlow • PyTorch | LSTM/GRU neural network visualization |
+| <a href="https://github.com/Kandesfx/portfolio-responsive-complete"><b>Portfolio</b></a> | React • CSS3 • JS | Fully responsive portfolio design |
+| <a href="https://github.com/Kandesfx/E-Commerce-Website"><b>E-Commerce</b></a> | Java • Spring Boot • MySQL | Complete shopping platform |
+| <a href="https://github.com/Kandesfx/WebReactJSForm"><b>React Forms</b></a> | React • Formik • Yup | Advanced form handling solution |
+
+</div>
+
+---
+
+## 📈 Activity Overview
+
+<div align="center">
+
+![Contribution Activity](https://github-readme-streak-stats.herokuapp.com/?user=Kandesfx&theme=tokyonight&hide_border=true&date_format=j%20M%20Y)
+
+</div>
+
+---
+
+## 🚀 Current Focus
+
+<div align="center">
+
+**🔄 Building** → Cross-platform mobile apps with Flutter
+**🌐 Exploring** → Modern React patterns & performance
+**☁️ Mastering** → Cloud-native architectures & DevOps
+**📖 Learning** → AI/ML applications in production
+
+</div>
+
+---
+
+## 📫 Let's Build Together
+
+<div align="center">
+
+I'm always open to discussing new projects, creative ideas, or opportunities to contribute to your team.
+
+<a href="mailto:kandesfx@gmail.com">
+  <img src="https://img.shields.io/badge/Let's_Talk-00D9FF?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Email Me"/>
+</a>
+<a href="https://www.linkedin.com/in/hailevu-kandes">
+  <img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 
 </div>
 
@@ -93,8 +112,7 @@ I'm always interested in hearing about new projects and opportunities. Feel free
 
 <div align="center">
 
-✨ *Thank you for visiting my profile!* ✨
-
-<i>Built with ❤️ from Vietnam</i>
+**✨ Thanks for stopping by! Feel free to explore my repositories.**
+<i>Crafted with passion from Vietnam 🇻🇳</i>
 
 </div>
