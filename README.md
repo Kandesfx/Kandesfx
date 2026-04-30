@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=4000&pause=2000&color=00E5FF&center=true&vCenter=true&width=800&lines=Hello%2C+world!+I'm+Le+Vu+Hai;Full-Stack+Engineer;AI+%26+Game+Developer;Building+the+future%2C+one+commit+at+a+time" alt="Typing SVG"/>
+<img src="https://github-readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=4000&pause=2000&color=00E5FF&center=true&vCenter=true&width=800&lines=Hello%2C+world!+I'm+Le+Vu+Hai;Full-Stack+Engineer;AI+%26+Game+Developer;Building+the+future%2C+one+commit+at+a+time" alt="Typing SVG"/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/🌍_Based_in-Vietnam-00BFA5?style=for-the-badge" alt="Location"/>
@@ -11,13 +11,13 @@
 <div align="center" style="margin-top: 20px; margin-bottom: 20px;">
 
 <a href="https://www.linkedin.com/in/hailevu-kandes" target="_blank">
-  <img src="https://badges.pages.dev/badge/linkedin-blue?logo=linkedin&logoColor=fff&color=0077B5&label=LinkedIn&labelColor=333" width="120" height="40" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/Kandesfx" target="_blank">
-  <img src="https://badges.pages.dev/badge/github-black?logo=github&logoColor=fff&color=24292e&label=GitHub&labelColor=333" width="120" height="40" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="mailto:kandesfx@gmail.com" target="_blank">
-  <img src="https://badges.pages.dev/badge/gmail-red?logo=gmail&logoColor=fff&color=D14836&label=Email&labelColor=333" width="120" height="40" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </div>
@@ -73,9 +73,9 @@
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kandesfx&theme=blue-dark&hide_border=true&date_format=j%20M%20Y&background=1a1b26&stroke=7aa2f7&ring=7dcfff&fire=ff9e64)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kandesfx&theme=blue-dark&hide_border=true&date_format=j%20M%20Y)
 
-![Commit Activity](https://github-readme-stats.vercel.app/api?username=Kandesfx&show_icons=true&theme=blue-dark&hide_border=true&include_all_commits=true&commit_days=30&background=1a1b26&title_color=7aa2f7&text_color=c0caf5&icon_color=7dcfff)
+![Commit Activity](https://github-readme-stats.vercel.app/api?username=Kandesfx&show_icons=true&theme=blue-dark&hide_border=true&include_all_commits=true&commit_days=30)
 
 </div>
 
